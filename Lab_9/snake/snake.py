@@ -5,7 +5,7 @@ import sys
 # Инициализация Pygame и музыки
 pygame.init()
 pygame.mixer.init()
-pygame.mixer.music.load('./lab_8/snake/song/Still_Woozy_-_Goodie_Bag_73876176.mp3')
+pygame.mixer.music.load('./lab_8/snake/song/TGC_Dreamers_Embody_Remix.mp3')
 pygame.mixer.music.play(-1)
 
 # Размеры экрана
